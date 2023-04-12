@@ -1,4 +1,4 @@
-# Floflis
+# <img src="https://raw.githubusercontent.com/Floflis/Floflis.github.io/main/press/press-kit/img/logotype_colored.svg"/>
 
 ## Sub-organizations
 
