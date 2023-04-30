@@ -1,4 +1,4 @@
-# <img width="150px" src="https://raw.githubusercontent.com/Floflis/Floflis.github.io/main/press/press-kit/img/logotype_colored.svg"/>
+# <img width="150px" src="https://raw.githubusercontent.com/Floflis/Floflis.github.io/main/logotype.svg"/>
 
 ## Sub-organizations
 
